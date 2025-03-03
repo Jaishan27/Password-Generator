@@ -25,5 +25,5 @@ A simple yet powerful password generator that allows users to create secure pass
 
 ## 🏗️ Setup Instructions  
 1. Clone the repository:
-   - git clone https://github.com/Jaishan27/password-generator.git
+   - git clone https://github.com/JaishanJ/password-generator.git
 2. Open index.html in your browser
